@@ -20,7 +20,7 @@ function welcom(language) {
         italian: "Benvenuto",
         latvian: "Gaidits",
         lithuanian: "Laukiamas",
-        polish: "Witamy",
+        polish: "Witamy",   
         spanish: "Bienvenido",
         swedish: "Valkommen",
         welsh: "Croeso",
